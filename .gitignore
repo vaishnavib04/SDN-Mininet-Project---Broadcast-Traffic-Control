@@ -1,0 +1,11 @@
+# Ignore scripts / temp files
+run.sh
+pingall
+X
+
+# Python cache
+__pycache__/
+*.pyc
+
+# System files
+*.log
