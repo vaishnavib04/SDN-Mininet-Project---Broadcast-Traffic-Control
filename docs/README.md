@@ -229,4 +229,3 @@ avg latency: 0.704 ms
 - [Open vSwitch Documentation](https://docs.openvswitch.org/)
 
 
-sudo mn -c
